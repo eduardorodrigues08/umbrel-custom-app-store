@@ -10,5 +10,4 @@ repository: https://github.com/ajnart/homarr
 port: 7575
 gallery:
   - https://raw.githubusercontent.com/ajnart/homarr/main/public/img/screenshot.png
-path: ""
 defaultPassword: ""
