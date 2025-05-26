@@ -3,7 +3,7 @@ version: '3.8'
 services:
   homarr:
     image: ghcr.io/ajnart/homarr:latest
-    container_name: homarr
+    container_name: umbrel-homarr
     restart: always
     ports:
       - "7575:7575"
