@@ -9,5 +9,5 @@ developer: Homarr Community
 repository: https://github.com/homarr-labs/homarr
 port: 7575
 gallery:
-  - https://raw.githubusercontent.com/ajnart/homarr/main/public/img/screenshot.png
+  - https://raw.githubusercontent.com/homarr-labs/homarr/main/public/img/screenshot.png
 defaultPassword: ""
