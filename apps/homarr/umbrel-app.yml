@@ -6,7 +6,7 @@ icon: https://raw.githubusercontent.com/ajnart/homarr/main/public/img/logo.png
 description: |
   Homarr é um dashboard moderno e intuitivo para centralizar e acessar todos os seus serviços.
 developer: Homarr Community
-repository: https://github.com/ajnart/homarr
+repository: https://github.com/homarr-labs/homarr
 port: 7575
 gallery:
   - https://raw.githubusercontent.com/ajnart/homarr/main/public/img/screenshot.png
