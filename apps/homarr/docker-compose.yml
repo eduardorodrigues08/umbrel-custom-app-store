@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  homarr:
+    image: ghcr.io/ajnart/homarr:latest
+    container_name: homarr
+    restart: always
+    ports:
+      - "7575:7575"
+    volumes:
+      - ${UMBREL_APP_DATA_DIR}/configs:/app/data/configs
+      - ${UMBREL_APP_DATA_DIR}/icons:/app/public/icons
+      - ${UMBREL_APP_DATA_DIR}/data:/data
